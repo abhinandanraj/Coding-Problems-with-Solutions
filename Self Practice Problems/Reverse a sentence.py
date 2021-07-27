@@ -15,3 +15,4 @@ if __name__ == "__main__":
   
 sentence = input("Enter a sentence :")
 print(" ".join(reversed(sentence.split())))
+
