@@ -17,6 +17,6 @@ Write suitable arithmetic expressions for the displayed descriptions.
 9. Any expression that will result in 0, which does not include multiplication and contains at least 3 arithmetic operators.
 10. Any expression that includes all six arithmetic operators, addition (+), subtraction (-), multiplication (*), division (/), modulo (%) and power (**)
 
-[Solution](Code_Challenge/Code_Challenge_1.py)
+[Solution](https://github.com/abhinandanraj/Coding-Problems-with-Solutions/blob/bb3dfee543e16d8cd126cfcc18035001832685dc/Code_Challenge/Code_Challenge_1.py)
 
 ---
