@@ -1,4 +1,4 @@
-# My-Coding-Problems-with-Solutions
+# Coding-Problems-with-Solutions
 This Repository contains Basic or Medium level coding questions with solutions.
 </br>
 Everybody can contribute or copy this code.
