@@ -4,5 +4,9 @@
 
 #### Question 1
 
+    Write a function that capitalize the letter according to index.
+    
+    Sample Input: bootcamp
+    sample Output: BootCamp
 
-[Answer](.py)
+[Answer](Capitalize a Letter.py)
