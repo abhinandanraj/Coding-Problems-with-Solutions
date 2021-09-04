@@ -2,7 +2,7 @@
 This Repository contains Basic or Medium level coding questions with solutions.
 </br>
 </br>
-Use this Website to check code :- 
+Use this Website to check code:- 
 </br>
 https://www.onlinegdb.com/online_python_compiler
  (This is not mandatory)
