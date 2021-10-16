@@ -12,7 +12,7 @@ Use this project to make your first contribution to an open source project on Gi
 
 ###### https://hacktoberfest.digitalocean.com/
 
-### 2. Add a Program in any Language you like:
+### 2. Add a Program in Only Python Language:
 
 Add any Simple or Complex Program in Python language you Like in this Repository by clicking "Add File -> Create new File".
 
